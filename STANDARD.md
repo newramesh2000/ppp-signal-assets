@@ -1,6 +1,6 @@
 # Deal Signal: house standard (approved 10 Nov 2026)
 
-Approved sample: 2026/11/2026-11-10-sabic-hospital.png (built from template/deal-signal-template.html).
+Approved sample: images/2026/11/2026-11-10-sabic-hospital.png (built from template/deal-signal-template.html).
 
 ## Image (1080 x 1350 PNG)
 Keep the template's frame, colours, fonts (Lora headings, Inter body), masthead, footer and evidence codes exactly. Only the content changes.
