@@ -14,12 +14,13 @@ Keep the template's frame, colours, fonts (Lora headings, Inter body), masthead,
 Render with: node template/render.js <file.html> <file.png>  (must print OK), then view the PNG before upload.
 
 ## Hook standard (set by Ramesh, 27 Nov 2026)
-Model post: Zuluf Water Treatment Phase 2, published 26 Nov 2026 (images/2026/11/2026-11-26-zuluf-ii-water.png; https://linkedin.com/feed/update/urn:li:share:7531628785671237632). It went viral. Every Deal Signal now uses its hook pattern.
-- Image headline: three short beats, at most two lines. Beat 1 is the hard number, usually a ratio ("80% debt."). Beat 2 is the tension in two or three words ("One customer."). Beat 3, in italic teal, is the reveal and names the counterparty, asset or authority readers know ("That customer is Aramco.").
-- Caption line 1: the two source figures and the ratio they make, in plain words ("US$750m of non-recourse debt on a US$940m water plant: about 80% debt."). No icon on line 1.
-- Caption line 2: "🔑 " + one short sentence that delivers the reveal + " 👇".
-- The hook number must be a [V]/[R] figure or an [E] ratio built from two of them, and the decode ladder must show it. The reveal must be stated by the sources. No hype words, no question in the hook, no claim the sources do not support. The evidence rules still win: if no true three-beat hook exists, use the plainest true version.
-- The rest of the caption keeps the Zuluf order: facts, "Decode it", "Why it matters", "Not yet public", one question, three hashtags, "Soli Deo Gloria".
+Model post: Taweelah C IPP, Abu Dhabi, published 25 Nov 2026 (images/2026/11/2026-11-25-taweelah-c.png; https://linkedin.com/feed/update/urn:li:share:7531266302275969024). It went viral. Every Deal Signal now uses its hook pattern: one named player, two numbers that contradict each other, and what that split means for the money.
+- Image headline: two short, parallel sentences that set one number against another for the same named player, at most two lines. Line 1 is the expected fact ("TAQA owns 60%."). Line 2, in italic teal, is the contradiction ("It runs only 40%.").
+- Caption line 1: the contrast in one plain sentence, naming the player and both numbers ("TAQA owns 60% of Abu Dhabi's Taweelah C plant, but only 40% of the company that runs it."). No icon on line 1.
+- Caption line 2: "🔑 " + one short sentence saying who gets which cash or carries which risk because of the split ("Dividends and operating fees go to different hands.") + " 👇".
+- Good contrasts to look for: equity vs O&M or EPC share, headline value vs cash, debt vs equity, award date vs cash date, capacity vs payment, owner vs operator, public vs private share.
+- Both numbers must be [V] or [R], or an [E] figure built from them that the hero visual shows. The contradiction must be stated by the sources, not inferred. No hype words, no question in the hook, no claim the sources do not support. The evidence rules still win: if no true contrast exists, use the plainest true version.
+- The rest of the caption keeps the Taweelah C order: facts with icons, "Decode it", "Why it matters", "Not yet public", one question, three hashtags, "Soli Deo Gloria".
 
 ## Caption
 Hook per the hook standard above, then a blank line. Icon at the start of every line. Facts, then "Decode it" or the mechanism, then why it matters to lenders/sponsors, then what is not public. One question to the audience. Exactly three hashtags (#PPP #Vision2030 #ProjectFinance unless the deal is outside the Gulf, then swap #Vision2030 for the country or sector tag). Close with "Soli Deo Gloria". Under 1,300 characters.
