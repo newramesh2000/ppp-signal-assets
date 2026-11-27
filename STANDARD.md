@@ -13,8 +13,16 @@ Keep the template's frame, colours, fonts (Lora headings, Inter body), masthead,
 7. Footer: dated sources; V = official notice or regulatory filing, R = reputable press, E = author arithmetic with method; "Not investment advice."; "Ramesh Radhakrishnaraja, FCA".
 Render with: node template/render.js <file.html> <file.png>  (must print OK), then view the PNG before upload.
 
+## Hook standard (set by Ramesh, 27 Nov 2026)
+Model post: Zuluf Water Treatment Phase 2, published 26 Nov 2026 (images/2026/11/2026-11-26-zuluf-ii-water.png; https://linkedin.com/feed/update/urn:li:share:7531628785671237632). It went viral. Every Deal Signal now uses its hook pattern.
+- Image headline: three short beats, at most two lines. Beat 1 is the hard number, usually a ratio ("80% debt."). Beat 2 is the tension in two or three words ("One customer."). Beat 3, in italic teal, is the reveal and names the counterparty, asset or authority readers know ("That customer is Aramco.").
+- Caption line 1: the two source figures and the ratio they make, in plain words ("US$750m of non-recourse debt on a US$940m water plant: about 80% debt."). No icon on line 1.
+- Caption line 2: "🔑 " + one short sentence that delivers the reveal + " 👇".
+- The hook number must be a [V]/[R] figure or an [E] ratio built from two of them, and the decode ladder must show it. The reveal must be stated by the sources. No hype words, no question in the hook, no claim the sources do not support. The evidence rules still win: if no true three-beat hook exists, use the plainest true version.
+- The rest of the caption keeps the Zuluf order: facts, "Decode it", "Why it matters", "Not yet public", one question, three hashtags, "Soli Deo Gloria".
+
 ## Caption
-Hook line with one number + second line, then a blank line. Icon at the start of every line. Facts, then "Decode it" or the mechanism, then why it matters to lenders/sponsors, then what is not public. One question to the audience. Exactly three hashtags (#PPP #Vision2030 #ProjectFinance unless the deal is outside the Gulf, then swap #Vision2030 for the country or sector tag). Close with "Soli Deo Gloria". Under 1,300 characters.
+Hook per the hook standard above, then a blank line. Icon at the start of every line. Facts, then "Decode it" or the mechanism, then why it matters to lenders/sponsors, then what is not public. One question to the audience. Exactly three hashtags (#PPP #Vision2030 #ProjectFinance unless the deal is outside the Gulf, then swap #Vision2030 for the country or sector tag). Close with "Soli Deo Gloria". Under 1,300 characters.
 
 ## First comment
 "Sources" then each source: publisher, what it confirms, date, full URL. Then the [E] arithmetic written out. End with "Not investment advice."
